@@ -1,6 +1,7 @@
 <?php
 
 
+
 include_once 'painel/bd/conexao.php';
 include_once 'painel/helper/funcoes.php';
 
